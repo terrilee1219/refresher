@@ -1,1 +1,2 @@
 this is line 1. this is the first line
+this is line 2. this is added from the folder: git-example2. this simulates another user changing the file.
