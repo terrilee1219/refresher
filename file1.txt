@@ -1,0 +1,4 @@
+this is line 1. this is the first line
+this is line 2. this is added from the folder: git-example2. this simulates another user changing the file.
+this is line 4. this is added from the folder: git-proactice2. This was originally line 3 and this is to create a merge conflict when pushing and pulling.
+this is line 6. This is added from user 2: git-practice2. this is to test how merge conflict is handled.
